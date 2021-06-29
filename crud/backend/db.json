@@ -1,0 +1,56 @@
+{
+  "produts": [
+    {
+      "id": 2,
+      "name": "Notbook Asus",
+      "Price": 12000,
+      "price": "4550.99"
+    },
+    {
+      "id": 3,
+      "name": "Celular Samsumg J6",
+      "Price": 2500,
+      "price": "2559.00"
+    },
+    {
+      "name": "Geladeira Brastemp",
+      "price": "2010.99",
+      "id": 5
+    },
+    {
+      "name": "produto de teste",
+      "price": 200.99,
+      "id": 6
+    },
+    {
+      "name": "mouse",
+      "price": "55.00",
+      "id": 7
+    },
+    {
+      "name": "teclado",
+      "price": "12.50",
+      "id": 8
+    },
+    {
+      "name": "Maquina de lavar",
+      "price": "760.00",
+      "id": 10
+    },
+    {
+      "name": "boné",
+      "price": "35.00",
+      "id": 11
+    },
+    {
+      "name": "Caderno 10 materias",
+      "price": "25.30",
+      "id": 12
+    },
+    {
+      "name": "produto",
+      "price": "12.99",
+      "id": 13
+    }
+  ]
+}
